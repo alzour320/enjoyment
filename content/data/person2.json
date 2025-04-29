@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "",
+    "role": "",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/Screenshot_3.jpg",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "<https://loopflavour.com/jtdyzwx9dp?key=6ceffee47be217154eecc6045d5bb044>\n"
 }
