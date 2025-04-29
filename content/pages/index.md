@@ -141,7 +141,8 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: ''
+        url: >-
+          https://loopflavour.com/jtdyzwx9dp?key=6ceffee47be217154eecc6045d5bb044
         showIcon: false
         icon: arrowRight
         iconPosition: right
