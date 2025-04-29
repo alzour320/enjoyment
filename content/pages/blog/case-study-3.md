@@ -13,6 +13,7 @@ featuredImage:
     self:
       borderRadius: x-large
   type: ImageBlock
+  url: /images/Screenshot_3.jpg
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
